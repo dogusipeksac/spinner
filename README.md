@@ -1,1 +1,2 @@
 # spinner
+#spinner nesnesinin kullanımı
